@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\CloudTools\compressor.py", line 2, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+
+ <script>
+    </script>
