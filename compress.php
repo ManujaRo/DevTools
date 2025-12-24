@@ -23,7 +23,7 @@ $quality = intval($_POST['quality'] ?? 80);
 $response = [];
 
 // 🔴 CHANGE THIS PATH to YOUR python.exe
-$python = "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python314\\python.exe";
+$python = "python3";
 
 // Absolute path to compressor.py
 $script = __DIR__ . "\\compressor.py";
